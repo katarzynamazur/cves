@@ -13,4 +13,3 @@ What can we do to be more secure?
 
 How to run Docker container with a vulnerable software version, to be able to test and exploit it?
 
-:four_leaf_clover: :four_leaf_clover: Happy Hacking! :four_leaf_clover: :four_leaf_clover:
