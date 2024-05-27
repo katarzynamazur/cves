@@ -1,5 +1,3 @@
-# Every directory in this repostory is described like below:
-
 ## :mag_right: Background
 A few words about a software which has a vulnerability
 
