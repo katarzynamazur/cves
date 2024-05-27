@@ -11,5 +11,5 @@ What can we do to be more secure?
 
 ### :whale: How to test for the vulnerability using Docker?
 
-How to run Docker container with a vulnerable software version, to be able to test and exploit it?
+How to run Docker container with a vulnerable software version, to test and exploit it?
 
